@@ -1,0 +1,65 @@
+{
+    "teachers": [
+      {
+        "name": "Alice Johnson",
+        "subject": "Mathematics",
+        "subject_code": "MATH101",
+        "score": 95
+      },
+      {
+        "name": "Bob Smith",
+        "subject": "Physics",
+        "subject_code": "PHYS101",
+        "score": 88
+      },
+      {
+        "name": "Charlie Brown",
+        "subject": "Chemistry",
+        "subject_code": "CHEM101",
+        "score": 92
+      },
+      {
+        "name": "Diana Prince",
+        "subject": "Biology",
+        "subject_code": "BIO101",
+        "score": 85
+      },
+      {
+        "name": "Ethan Hunt",
+        "subject": "History",
+        "subject_code": "HIST101",
+        "score": 90
+      },
+      {
+        "name": "Fiona Apple",
+        "subject": "Literature",
+        "subject_code": "LIT101",
+        "score": 89
+      },
+      {
+        "name": "George Washington",
+        "subject": "Economics",
+        "subject_code": "ECO101",
+        "score": 91
+      },
+      {
+        "name": "Hannah Montana",
+        "subject": "Art",
+        "subject_code": "ART101",
+        "score": 87
+      },
+      {
+        "name": "Ian Malcolm",
+        "subject": "Computer Science",
+        "subject_code": "CS101",
+        "score": 96
+      },
+      {
+        "name": "Julia Roberts",
+        "subject": "Psychology",
+        "subject_code": "PSY101",
+        "score": 86
+      }
+    ]
+  }
+  
